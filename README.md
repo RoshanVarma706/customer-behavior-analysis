@@ -26,6 +26,7 @@ Track sales trends across time periods
 Identify potential growth opportunities based on customer behavior
 
 📂 Workflow Summary
+
 🔹 1. Data Collection
 Raw CSV files containing customer sales records, product information, and discount details.
 
@@ -93,4 +94,5 @@ Automate ETL pipeline using Airflow or Power Automate
 👨‍💻 Author
 
 Varma Roshan
+
 Data Analyst & BI Developer
